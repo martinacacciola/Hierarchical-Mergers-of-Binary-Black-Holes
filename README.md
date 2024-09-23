@@ -1,5 +1,5 @@
 # Hierarchical Mergers of Binary Black Holes
-This repo collects the material related to the project "Hierarchical Mergers of Binary Black Holes" carried out during the Laboratory of Computational Physics (Mod A) course at the University of Padua.
+This repository contains the material related to the project "Hierarchical Mergers of Binary Black Holes" carried out during the Laboratory of Computational Physics (Mod. A) course at the University of Padua.
 The supervisor is Dr. Giuliano Iorio from the DEMOBLACK group, whose PI is Prof. Michela Mapelli.
 
 ## The project
