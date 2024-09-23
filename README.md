@@ -1,5 +1,5 @@
 # Hierarchical Mergers of Binary Black Holes
-This repository contains the material related to the project "Hierarchical Mergers of Binary Black Holes" carried out during the Laboratory of Computational Physics (Mod. A) course at the University of Padua. The code report is \texttt{group_07_2324.ipynb}, while the module with all the functions used in the project is \texttt{hmbh.py}.
+This repository contains the material related to the project "Hierarchical Mergers of Binary Black Holes" carried out during the Laboratory of Computational Physics (Mod. A) course at the University of Padua. The code report is `group_07_2324.ipynb`, while the module with all the functions used in the project is `hmbh.py`.
 The supervisor is Dr. Giuliano Iorio from the DEMOBLACK group, whose PI is Prof. Michela Mapelli.
 
 ## The project
